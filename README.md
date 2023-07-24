@@ -21,23 +21,22 @@ Please refer to this site for assistance with this assignment: [Ubuntu Screensho
 ```
 1.  Sign into your GitHub Account.
 
-2.  Create a New Repository called: <YourName>_Module2
+2.  Go to your repository: <YourName>_Training_Modules
 
-3.  Make sure that you include a Readme and that your repository is public.
-
-4.  Edit your Readme file and format it using the following:
+3.  Edit your Readme file and format it using the following:
+      - Please use a 5 line gap after the previous assignment
       - The first line: "<YourName> Module Two" using H1 (header one)
       - The third line: "Answers:" using H2 (header two)
       - The fifth line: Start an ordered List (1.)
 
-5.  Answer the following questions by typing your short answers into the ordered list you created on line 5:
+4.  Answer the following questions by typing your short answers into the ordered list you created on line 5:
       a. What command is used to display the current working directory?
       b. How do you create a new directory in Linux?
       c. What command is used to list files and directories in the current directory?
       d. How do you navigate to the parent directory in the Linux terminal?
       e. What command is used to copy files in Linux? (You may provide an example as your answer)
 
-6.  Almost done! Now, you will need to use the terminal to complete the steps below:
+5.  Almost done! Now, you will need to use the terminal to complete the steps below:
       - Open a terminal.
       - Create a directory on your desktop called "Module2".
       - Enter the Module2 directory, create a txt file, and name it after your favorite band/singer. [Hint: use the touch command]
@@ -46,7 +45,7 @@ Please refer to this site for assistance with this assignment: [Ubuntu Screensho
       - Take a screenshot of your terminal using one of the methods provided in the reference above.
       - Include the screenshot a few lines below your last answer.
 
-7.  Commit your changes by clicking the 'Commit changes...' button and set the commit message to "Completed Task Two"
+6.  Commit your changes by clicking the 'Commit changes...' button and set the commit message to "Completed Task Two"
 ```
 
 You have now completed your second assignment! :tada:
