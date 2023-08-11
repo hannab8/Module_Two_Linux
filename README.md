@@ -23,20 +23,22 @@ Please refer to this site for assistance with this assignment: [Ubuntu Screensho
 
 2.  Go to your repository: <YourName>_Training_Modules
 
-3.  Edit your Readme file and format it using the following:
+3.  Create a new branch called: Module2
+
+4.  Edit your Readme file in the Module2 branch and format it using the following:
       - Please use a 5 line gap after the previous assignment
       - The first line: "<YourName> Module Two" using H1 (header one)
       - The third line: "Answers:" using H2 (header two)
       - The fifth line: Start an ordered List (1.)
 
-4.  Answer the following questions by typing your short answers into the ordered list you created on line 5:
+5.  Answer the following questions by typing your short answers into the ordered list you created on line 5:
       a. What command is used to display the current working directory?
       b. How do you create a new directory in Linux?
       c. What command is used to list files and directories in the current directory?
       d. How do you navigate to the parent directory in the Linux terminal?
       e. What command is used to copy files in Linux? (You may provide an example as your answer)
 
-5.  Almost done! Now, you will need to use the terminal to complete the steps below:
+6.  Almost done! Now, you will need to use the terminal to complete the steps below:
       - Open a terminal.
       - Create a directory on your desktop called "Module2".
       - Enter the Module2 directory, create a txt file, and name it after your favorite band/singer. [Hint: use the touch command]
@@ -45,15 +47,26 @@ Please refer to this site for assistance with this assignment: [Ubuntu Screensho
       - Take a screenshot of your terminal using one of the methods provided in the reference above.
       - Include the screenshot a few lines below your last answer.
 
-6.  Commit your changes by clicking the 'Commit changes...' button and set the commit message to "Completed Task Two"
+7.  Commit your changes by clicking the 'Commit changes...' button and set the commit message to "Completed Task Two"
+
+8.  Go back to the code tab once you've committed your changes, and click the green button labeled 'Compare & pull request'
+
+9.  Fill in the pull request:
+    - Title: Task two
+    - Comment: [ Please write a one-two sentence summary of what you did for this assignment ]
+    - Assignees: [ Choose team lead member who is overseeing modules ]
 ```
 
-You have now completed your second assignment! :tada:
+### Example of Compare & pull request
 
-Just as a reminder, please notify a team lead when you have completed this task and provide your GitHub username. The next one will then be made available to you.
+<img width="895" alt="Screen Shot 2023-08-11 at 9 09 59 AM" src="https://github.com/hannab8/Module_Two_Linux/assets/83167499/c0af37c4-e4db-46d3-85e9-2488ef6005fc">
+
+
+You have now completed your second assignment! :tada:
 
 ## References
 Here you will find some helpful links for Linux. If you have any suggestions on what should be added, please let a team lead know!
 
 1. [Linux command cheat sheet](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 2. [More command cheat sheets](https://linuxopsys.com/topics/linux-commands-cheat-sheet)
+3. [Ubuntu Installation Instructions](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)
